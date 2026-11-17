@@ -76,7 +76,7 @@ const STAGE_CAMERAS: Record<
 > = {
   food_select: { pos: [0, 1.38, 2.35], target: [0, 0.7, 0] },
   first_bite: { pos: [0.28, 1.3, 2.1], target: [0.02, 0.76, 0.04] },
-  mouth: { pos: [0, 1.02, 2.3], target: [0, 0.95, 0] },
+  mouth: { pos: [0, 0.98, 2.08], target: [0, 0.95, 0] },
   swallow: { pos: [0.05, 1.05, 2.45], target: [0.05, 1.0, 0] },
   esophagus: { pos: [0, 1.0, 2.15], target: [0, 0.95, 0] },
   stomach: { pos: [0.1, 1.1, 2.25], target: [0.15, 1.03, 0] },
